@@ -1,5 +1,5 @@
 # Hi you ! How are you ?
-Here we want to make the Internet more exciting and make sure AI has a positive impact.
+Here we want to make the Internet more exciting and make sure Artificial Intelligence has a positive impact.
 
 **AI is integrated in apps to be much more than a chatbot assistant.**
 
