@@ -1,12 +1,13 @@
 # Hi you ! How are you ?
 Here we want to make the Internet more exciting and make sure AI has a positive impact.
-*AI is integrated on apps to be much more than a chatbot assistant.*
+
+**AI is integrated in apps to be much more than a chatbot assistant.**
 
 [Ami app](https://github.com/aichakorovaev-oss/Ami-app) :  Recommendation Engine integrating AI for better mental health  
 
-[Taar Explorer app](https://github.com/aichakorovaev-oss/taar-explorer-app)  : Stimulating the web with an image to surface everything it evokes
+[Taar Explorer app](https://github.com/aichakorovaev-oss/taar-explorer-app)  : Stimulating the web with an image to surface everything it evokes using multimodal AI
 
-[Les Contemplations app](https://github.com/aichakorovaev-oss/les-contemplations-app) : Personalized Virtual Art Gallery 
+[Les Contemplations app](https://github.com/aichakorovaev-oss/les-contemplations-app) : Personalized Virtual Art Gallery with AI's help
 
 [LLM Metacognition benchmark under stress](https://github.com/aichakorovaev-oss/metacognition-benchmark)  : Measuring progress and the limits of self-monitoring regarding alignment and on the path toward AGI
 
