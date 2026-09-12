@@ -1,5 +1,6 @@
 # Hi you ! How are you ?
 Here we want to make the Internet more exciting and make sure AI has a positive impact.
+*AI is integrated on apps to be much more than a chatbot assistant.*
 
 [Ami app](https://github.com/aichakorovaev-oss/Ami-app) :  Recommendation Engine integrating AI for better mental health  
 
