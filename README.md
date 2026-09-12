@@ -7,7 +7,7 @@ Here we want to make the Internet more exciting and make sure Artificial Intelli
 
 [Taar Explorer app](https://github.com/aichakorovaev-oss/taar-explorer-app)  : Stimulating the web with an image to surface everything it evokes using multimodal AI analysis
 
-[Les Contemplations app](https://github.com/aichakorovaev-oss/les-contemplations-app) : Personalized Virtual Art Gallery with AI's help
+[Les Contemplations app](https://github.com/aichakorovaev-oss/les-contemplations-app) : Personalized 3D Virtual Art Gallery with AI's help
 
 [LLM Metacognition benchmark under stress](https://github.com/aichakorovaev-oss/metacognition-benchmark)  : Measuring progress and the limits of self-monitoring regarding alignment and on the path toward AGI
 
