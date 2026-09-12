@@ -1,6 +1,5 @@
 # Hi you ! How are you ?
-Here we want to make the Internet more exciting and a better place.
-We also want AI to have a positive impact in the world and for it to be an equalizer.
+Here we want to make the Internet more exciting and make sure AI has a positive impact.
 
 [Ami app](https://github.com/aichakorovaev-oss/Ami-app) :  Recommendation Engine integrating AI for better mental health  
 
