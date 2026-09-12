@@ -5,7 +5,7 @@ Here we want to make the Internet more exciting and make sure Artificial Intelli
 
 [Ami app](https://github.com/aichakorovaev-oss/Ami-app) :  Recommendation Engine integrating AI for better mental health  
 
-[Taar Explorer app](https://github.com/aichakorovaev-oss/taar-explorer-app)  : Stimulating the web with an image to surface everything it evokes using multimodal AI
+[Taar Explorer app](https://github.com/aichakorovaev-oss/taar-explorer-app)  : Stimulating the web with an image to surface everything it evokes using multimodal AI analysis
 
 [Les Contemplations app](https://github.com/aichakorovaev-oss/les-contemplations-app) : Personalized Virtual Art Gallery with AI's help
 
