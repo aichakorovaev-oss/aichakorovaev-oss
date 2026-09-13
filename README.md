@@ -13,4 +13,4 @@ Here we want to make the Internet more exciting and make sure Artificial Intelli
 
 [LLM finetuning](https://github.com/aichakorovaev-oss/nvidia-nemotron-finetuning) : LoRA fine-tuning of an NVIDIA Nemotron hybrid model on verified chain-of-thought reasoning traces to optimize its reasoning
 
-All built with curiosity, nice, fun and well thought design !
+All built with curiosity, fun and taste !
