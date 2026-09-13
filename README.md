@@ -1,7 +1,7 @@
 # Hi you ! How are you ?
 Here we want to make the Internet more exciting and make sure Artificial Intelligence has a positive impact.
 
-**AI is integrated in apps to be much more than a chatbot assistant.**
+**AI is integrated in apps to be more than a chatbot assistant.**
 
 [Ami app](https://github.com/aichakorovaev-oss/Ami-app) :  Recommendation Engine integrating AI for better mental health  
 
@@ -13,4 +13,4 @@ Here we want to make the Internet more exciting and make sure Artificial Intelli
 
 [LLM finetuning](https://github.com/aichakorovaev-oss/nvidia-nemotron-finetuning) : LoRA fine-tuning of an NVIDIA Nemotron hybrid model on verified chain-of-thought reasoning traces to optimize its reasoning
 
-All built with curiosity, nice, well thought, fun and engaging design !
+All built with curiosity, nice, fun and well thought design !
